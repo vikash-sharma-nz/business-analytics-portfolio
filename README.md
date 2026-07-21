@@ -1,103 +1,123 @@
 # Business Analytics Portfolio
 
-Welcome to my Business Analytics portfolio.
+## Vikash Sharma
 
-This repository showcases my projects in:
+Business Analyst | Data Analytics | Power BI | SQL | Python | Machine Learning
 
-- Business Analytics
-- Data Analysis
-- Business Intelligence
-- Machine Learning
-- SQL
-- Python
-- Power BI
-- AI-driven solutions
+📍 Christchurch, New Zealand
 
 ---
 
 ## About Me
 
-I am a Business Informatics professional specialising in Business Analytics, Data Analysis, and technology-driven business solutions.
+I am a Business Analyst and Data Analytics professional with 12+ years of experience delivering digital transformation, business improvement, project delivery, and data-driven solutions across education, technology, and non-profit sectors.
 
-Currently based in Christchurch, New Zealand, I have 12+ years of experience in digital transformation, project management, stakeholder engagement, and analytics initiatives.
+I completed my Master of Business Informatics (Business Analytics) in New Zealand, combining business strategy, analytics, machine learning, and technology solutions.
+
+My focus is transforming business problems into data-driven solutions that improve decision-making and operational efficiency.
+
+---
+
+# Skills
+
+## Data Analytics
+
+- SQL
+- Python
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+
+## Business Intelligence
+
+- Microsoft Power BI
+- Dashboard Development
+- KPI Reporting
+- Data Visualisation
+
+## Business Analysis
+
+- Requirements Analysis
+- Process Improvement
+- Stakeholder Management
+- Business Reporting
+
+## Machine Learning
+
+- Predictive Analytics
+- Regression Models
+- Classification Models
+- Model Evaluation
 
 ---
 
 # Featured Projects
 
-## Retail Sales Business Intelligence Solution
+## Retail Sales Business Intelligence
 
-A complete BI solution developed using retail transaction data.
+**Tools:**
+Python | SQL | SQLite | Power BI
 
-Technologies:
+An end-to-end business intelligence solution analysing retail transactions, customer behaviour, revenue trends, and product performance.
 
-- Python
-- SQL
-- SQLite
-- Power BI
-
-Key Features:
-
-- Data cleaning
-- ETL pipeline
-- Database modelling
-- Interactive dashboard
-- Business insights
-
+Repository:
+(Add link after completion)
 
 ---
 
 ## Demand Forecasting & Inventory Optimisation
 
-Machine learning project to improve forecasting accuracy.
+**Tools:**
+Python | Machine Learning | Predictive Analytics
 
-Technologies:
+A forecasting solution using machine learning models to improve demand prediction and inventory planning.
 
-- Python
-- Pandas
-- Scikit-learn
-- Machine Learning
-
+Repository:
+(Add link after completion)
 
 ---
 
-## Network Intrusion Detection Using Machine Learning
+## Network Intrusion Detection using Machine Learning
 
-Cybersecurity analytics project using CICIDS-2017 dataset.
+**Tools:**
+Python | Machine Learning | Power BI
 
-Technologies:
+Cybersecurity analytics project comparing classification models and mapping findings with the NIST Cybersecurity Framework.
 
-- Python
-- Machine Learning
-- Cybersecurity Analytics
-- Power BI
-
+Repository:
+(Add link after completion)
 
 ---
 
-## Skills
+# Education
 
-### Data Analytics
+## Master of Business Informatics (Business Analytics)
 
-- SQL
-- Python
-- Power BI
-- Data Visualisation
-- Business Intelligence
+Yoobee College of Creative Innovation  
+New Zealand
 
+## Bachelor of Technology - Electronics & Communication Engineering
 
-### Business Skills
-
-- Business Analysis
-- Process Improvement
-- Stakeholder Management
-- Project Management
-
+Rajasthan Technical University
 
 ---
 
-## Connect With Me
+# Certifications
+
+- Microsoft Power BI Analytics
+- Project Management Foundations
+- Business Analysis for Project Managers
+- Machine Learning Fundamentals
+- Artificial Intelligence Fundamentals
+- Prompt Engineering
+
+---
+
+# Connect
 
 LinkedIn:
+https://www.linkedin.com/in/vikashinu
 
-www.linkedin.com/in/vikashinu
+Email:
+vikash670@gmail.com
