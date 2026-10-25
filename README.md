@@ -116,8 +116,8 @@ Rajasthan Technical University
 
 # Connect
 
-LinkedIn:
-https://www.linkedin.com/in/vikashinu
+Github:
+https://github.com/vikash-sharma-nz
 
 Email:
 vikash670@gmail.com
